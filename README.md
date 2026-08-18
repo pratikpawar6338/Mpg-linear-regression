@@ -1,4 +1,4 @@
-# mpg-linear-regression
+# Mpg-linear-regression
 
 
 #### Auto MPG Prediction — End-to-End Data Analytics Project
